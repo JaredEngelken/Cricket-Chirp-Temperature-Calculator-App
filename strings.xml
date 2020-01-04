@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cricket Temperature Calculator</string>
+    <string name="thermometer">Thermometer</string>
+    <string name="btnTimer">Start Timer</string>
+    <string name="tvTemp">Results</string>
+</resources>
